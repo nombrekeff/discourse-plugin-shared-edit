@@ -8,5 +8,6 @@ uncategorized:
 
 basic:
   post_menu:
+    default: sharedEdit
     choices:
       - sharedEdit
